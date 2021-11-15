@@ -5,6 +5,8 @@ public class Start {
 		System.out.println("Hello World");
 		System.out.println("slave branch");
 
+		System.out.println("github 수정");
+
 	}
 
 }
